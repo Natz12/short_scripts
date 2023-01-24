@@ -1,0 +1,20 @@
+The NASA Earthdata Search portal (https://search.earthdata.nasa.gov/search) allows you to search, discover, and download a wide variety of Earth science data products from various NASA missions and field campaigns.
+Here are some examples of data products that you can download from the portal:
+
+MODIS (Moderate Resolution Imaging Spectroradiometer): This sensor is on board of Terra and Aqua NASA satellites and provides data on a wide range of Earth science variables such as land cover, vegetation, and snow cover.
+Landsat: This sensor is on board of several NASA and USGS satellites and provides data on land cover, vegetation, and land use change.
+VIIRS (Visible Infrared Imaging Radiometer Suite): This sensor is on board of the Suomi NPP satellite and provides data on a wide range of Earth science variables such as land cover, vegetation, and atmospheric aerosols.
+SMOS (Soil Moisture and Ocean Salinity): This satellite mission provides data on soil moisture and ocean salinity
+TRMM (Tropical Rainfall Measuring Mission): This satellite mission provides data on precipitation, cloud and water vapor
+ICESat-2 (Ice, Cloud, and land Elevation Satellite 2): This satellite mission provides data on ice height, land elevation, and vegetation height
+CERES (Clouds and the Earth's Radiant Energy System): This satellite mission provides data on the Earth's energy balance.
+These are just a few examples, the portal provides access to many other data products and other satellite missions such as
+
+TerraSAR-X, a German satellite mission that provides high-resolution radar imaging for land and ocean applications.
+SRTM (Shuttle Radar Topography Mission), a joint NASA and NGA mission that provides high-resolution digital elevation data.
+GRACE (Gravity Recovery and Climate Experiment), a joint NASA and DLR mission that provides data on the Earth's gravity field and its temporal variations.
+NPP (NPOESS Preparatory Project) a NASA satellite mission provides data on atmospheric, land, and oceanic variables
+ASCAT (Advanced Scatterometer) a European Space Agency mission that provides data on ocean winds
+AMSR-E (Advanced Microwave Scanning Radiometer - Earth Observing System) a NASA mission that provides data on various Earth science variables such as soil moisture, sea-ice concentration, and precipitation.
+These are just a few examples of data products that you can download from the NASA Earthdata Search portal. The portal provides access to many other data products and satellite missions, and it's a valuable resource for researchers, scientists, and other users interested in Earth science data.
+
